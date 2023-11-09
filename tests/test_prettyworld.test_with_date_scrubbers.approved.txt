@@ -1,0 +1,1 @@
+NOTE:Bar/Foo, DATE=<date0>

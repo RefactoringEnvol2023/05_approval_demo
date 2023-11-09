@@ -40,3 +40,8 @@ def find_related_people_in_same_cities(families: List[Family]):
                     people_relations_by_cities[city_name] = relations
                 relations.append(people)
     return people_relations_by_cities
+
+class Foo:
+    def __init__(self):
+        self.foo = None
+        self.bar = None
