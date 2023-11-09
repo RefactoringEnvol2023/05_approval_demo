@@ -1,0 +1,1 @@
+{'Sample City': [Person(name='Alice', age=25, address=Address(street='123 Street A', city=City(name='Sample City')), knows=[Person(name='Charlie', age=28, address=Address(street='789 Street C', city=City(name='Sample City')), knows=[])])]}
